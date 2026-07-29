@@ -2,6 +2,9 @@ const CACHE_VERSION = "taboo-__BUILD_VERSION__";
 const APP_SHELL = [
   "/",
   "/manifest.webmanifest",
+  "/favicon.svg",
+  "/favicon-96x96.png",
+  "/favicon.ico",
   "/icon-192.png",
   "/icon-512.png",
   "/icon-maskable-512.png",
