@@ -97,10 +97,10 @@ const teamThemeColors: Record<TeamColor, string> = {
   violet: "#794fc0",
 };
 const teamDefaults = [
-  { id: "team-1", name: "I Parolai", color: "coral" as const },
-  { id: "team-2", name: "Senza Freni", color: "blue" as const },
-  { id: "team-3", name: "Fuori Tema", color: "amber" as const },
-  { id: "team-4", name: "Gli Indiziati", color: "violet" as const },
+  { id: "team-1", name: "Professoroni", color: "coral" as const },
+  { id: "team-2", name: "Talenti sprecati", color: "blue" as const },
+  { id: "team-3", name: "Casi umani", color: "amber" as const },
+  { id: "team-4", name: "Filosofeggianti", color: "violet" as const },
 ];
 
 const defaultSettings: GameSettings = {
